@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jabir23
-- 👀 I’m interested in ...Unity Game dev
-- 🌱 I’m currently learning ... Unity and C#
+- 👀 I’m interested in ... Django and Unity Game dev
+- 🌱 I’m currently learning ...python, Django, Unity and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jabirkullow@live.com
 
